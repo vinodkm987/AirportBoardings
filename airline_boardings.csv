@@ -1,4 +1,4 @@
-Region,State,AirportID,City,Airport_Name,S/L,Hub,Year,Boardings,PCT
+Region,State,AirportID,City,Airport_Name,S/L,Hub,Year,Boardings,PCT_Rise
 WP,AZ,1G4,Peach Springs,Grand Canyon West,P,N,2015,147137,0.14
 WP,AZ,1G4,Peach Springs,Grand Canyon West,P,N,2014,128515,-0.09
 WP,AZ,1G4,Peach Springs,Grand Canyon West,P,N,2013,140886,-0.05
